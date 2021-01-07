@@ -1,4 +1,4 @@
-# Curso Desarrollo Web JavaEE Open Webinars
+# PROYECTOS JAVA EE
 
 En el anterior PDF adjuntado se hace una explicación base sobre que usos podemos darle a Java en Desarrollo Web. 
 Se tocan varios temas desde la configuración de sus principales recursos que se instalarán como Eclipse IDE en su versión EE, Apache Tomcat como servidor de nuestra aplicación, MySQL como Base de Datos y alguno más.
